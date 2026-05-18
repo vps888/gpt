@@ -39,7 +39,7 @@
      * 自己用：GooglePlay+国内VISA卡，如果没有苹果还想自己充，就用GooglePlay。如果只有鸿蒙，可以在电脑上装个安卓虚拟机，剩下的应该不用多说了吧（我实操过没问题）。
      * 可报销：直接淘宝、闲鱼找代充+开票。
 
-4. 如果只是Codex，上述就齐了。如果不久将来Claude也支持类似功能，你还想搞Claude话，[参考2026 最新 Claude 订阅防封全攻略](https://www.cnblogs.com/notlate-cn/p/20002343)。
+4. 如果只是Codex，上述就齐了。如果你还想搞Claude这种移动端控制电脑端的话，[参考2026 最新 Claude 订阅防封全攻略](https://www.cnblogs.com/notlate-cn/p/20002343)。
 
 ### 2.2 实际操作
 
