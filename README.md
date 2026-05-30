@@ -1,8 +1,12 @@
 # 随时随地写代码！OpenAI Codex 移动端控制桌面版保姆级实操和使用心得
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
+[![Updated](https://img.shields.io/badge/Updated-May_2026-blue)]()
+
+> 【更新】2026.05.30 Windows版Codex支持远程，鸿蒙+出境易客户端支持
 
 ## 1. 简介：打破空间限制的 AI 原生远程编程
 
-**OpenAI Codex** 迎来重大重磅更新，全新加入了“移动端控制桌面端”功能。作为一名 AI 开发者，这正是心心念念的“完全体”形态：**只需在手机/iPad端通过打字或语音下发指令，家中的桌面版 Codex 就能实时响应操作（编写代码、调试环境、控制系统，在 MacOS 上体验尤为惊艳），实现真正的随时随地写代码。**
+**OpenAI Codex** 迎来重大重磅更新，全新加入了“移动端控制桌面端”功能。作为一名 AI 开发者，这正是心心念念的“完全体”形态：**只需在手机/Pad端通过打字或语音下发指令，桌面版 Codex 就能实时响应操作（编写代码、调试环境、控制系统），实现真正的随时随地写代码。**
 
 **传统方案 vs Codex 原生远程控制**
 
@@ -24,9 +28,9 @@
 
 ### 2.1 环境准备
 
-1. 桌面版Codex（不是CLI，带界面的）：MacOS效果最好（强烈推荐MacMini，没有显示器，功耗低，噪音小），Windows/Linux不支持。
+1. 桌面版Codex（不是CLI，带界面的）：MacOS效果最好（强烈推荐MacMini，没有显示器，功耗低，噪音小），Windows目前已支持，Linux应该还不支持。
 
-2. 移动端ChatGPT：iOS 18+/iPadOS/Android都可以，鸿蒙+出境易实测不支持。
+2. 移动端ChatGPT：iOS 18+/iPadOS/Android/鸿蒙+出境易都可以。
 
 3. Codex订阅：本身对环境要求不是特别高，只要IP稳定就OK。（**只要能订阅，就一定不要用中转站**）
 
