@@ -3,6 +3,8 @@
 [![Updated](https://img.shields.io/badge/Updated-May_2026-blue)]()
 
 > 【更新】2026.05.30 Windows版Codex支持远程，鸿蒙+出境易客户端支持
+> 
+> 【更新】2026.06.17 [【新增今年最具性价比的CN2 VPS，2C4G40G 2T，年388RMB】](https://github.com/vps888/vps2605)
 
 ## 1. 简介：打破空间限制的 AI 原生远程编程
 
