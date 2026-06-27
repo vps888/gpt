@@ -36,7 +36,7 @@
 
 3. Codex订阅：本身对环境要求不是特别高，只要IP稳定就OK。（**只要能订阅，就一定不要用中转站**）
 
-   * 代理：直接买 **机场代理** 或者 **买三网优化VPS，自己搭都可以**，但是网络质量务必要好，否则很影响体验。自己搭可以参考[三网优化VPS，加速访问](https://github.com/vps888/vps2605)。
+   * 代理：直接买 [**机场代理**](https://zhetengxia.com/blog/claude-chatgpt-vpn-airport-recommendations-2026/) 或者 **买三网优化VPS，自己搭都可以**，但是网络质量务必要好，否则很影响体验。自己搭可以参考[三网优化VPS，加速访问](https://github.com/vps888/vps2605)。
 
    * 支付：（只介绍最划算的路子）
 
